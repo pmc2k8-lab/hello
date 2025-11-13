@@ -111,7 +111,7 @@ function render(){
 render();
 
 // ====== Timer ======
-let timeLeft = 40.5*60; // seconds
+let timeLeft = 40*60; // seconds
 const timerEl = document.getElementById('timer');
 function tick(){
   const m = Math.floor(timeLeft/60).toString().padStart(2,'0');
