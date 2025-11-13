@@ -54,7 +54,7 @@
     <div id="result"></div>
 
     <footer>
-      Mình đã tạo quiz này tự động. Nếu muốn tải file HTML, hãy dùng trình duyệt: File → Save As.
+      CHÍ ĐZ SỐ 1 THẾ GIỚI
     </footer>
   </div>
 
