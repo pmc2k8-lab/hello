@@ -47,7 +47,7 @@
 
     <div class="controls">
       <button id="submitBtn">Nộp bài & Chấm điểm</button>
-      <button id="showAnsBtn" style="background:#fff;color:#002431">Hiện đáp án</button>
+      <button id="showAnsBtn" style="background:#fff;color:#002431"></button>
       <div class="small">Điểm tối đa: <strong>30</strong> (10 câu x2 + 5 câu đúng/sai x2)</div>
     </div>
 
